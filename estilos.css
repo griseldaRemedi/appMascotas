@@ -1,0 +1,10 @@
+.contenedor{
+    width: 70%;
+    margin: 100px;
+
+}
+
+.slick-prev:before,
+.slick-next:before {
+  color: red !important;
+}
